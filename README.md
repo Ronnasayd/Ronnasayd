@@ -9,8 +9,6 @@
 
 
 ## 📭 Contato
-Feito com 💜 por Ronnasayd Machado 👋 Entre em contato!
-
 <p>
 	<a href="https://www.facebook.com/ronnasaydmachado/">
 	<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
