@@ -5,7 +5,7 @@
 - ⚡ I'm a electrical engenieer who works with 💜 programming
 - 🔭 I’m currently working with [Python](https://www.python.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)
-- 💬 Ask me about anything [ronnasayd@hotmail.com](mailto:ronnasayd@hotmail.com)
+- 💬 Ask me about anything
 
 
 ## 📭 Contact
