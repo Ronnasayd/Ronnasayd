@@ -6,7 +6,15 @@
 - 🔭 I’m currently working with [Python](https://www.python.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)
 - 💬 Ask me about anything
-
+<p>
+	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" height="20" width="20">
+</p>
 
 ## 📭 Contact
 <p>
@@ -23,6 +31,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
   </a>
 </p>
+
 
 
 <!--
