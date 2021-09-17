@@ -3,7 +3,7 @@
 ## 🚀 Ronnasayd
 
 - ⚡ I'm a electrical engenieer who works with 💜 programming
-- 🔭 I’m currently working with [Python](https://www.python.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🔭 I’m currently working with [NuxtJs](https://nuxtjs.org/),[Vuepress](https://vuepress.vuejs.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)
 - 💬 Ask me about anything
 <p>
