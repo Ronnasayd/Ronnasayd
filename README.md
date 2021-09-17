@@ -11,12 +11,15 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="20" width="20">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="20" width="20">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20" width="20">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="20" width="20">
 </p>
 
 ## 📭 Contact
