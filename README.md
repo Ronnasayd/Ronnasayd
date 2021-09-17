@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)
 - 💬 Ask me about anything
 <p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ronnasayd&show_icons=true&theme=dracula">
+</p>
+<p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20" width="20">
