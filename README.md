@@ -14,6 +14,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20" width="20">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="20" width="20">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20" width="20">
 </p>
 
 ## 📭 Contact
