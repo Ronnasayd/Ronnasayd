@@ -4,8 +4,8 @@
 
 - ⚡ I'm a electrical engenieer who works with 💜 programming
 - 🔭 I’m currently working with [NuxtJs](https://nuxtjs.org/),[Vuepress](https://vuepress.vuejs.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)-->
 - 💬 Ask me about anything
+<!-- - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)-->
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Ronnasayd&show_icons=true&theme=dracula">
 </p>
