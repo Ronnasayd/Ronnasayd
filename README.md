@@ -29,18 +29,9 @@
 
 ## 📭 Contact
 <p>
-	<a href="https://www.facebook.com/ronnasaydmachado/">
-	<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
-	</a>
-	<a href="https://twitter.com/ronnasayd">
-	<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&style=flat-square&logo=twitter&logoColor=white">
-	</a>
   <a href="https://www.linkedin.com/in/ronnasayd/">
 	<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
 	</a>
-	<a href="mailto:ronnasayd@hotmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
-  </a>
 </p>
 
 
