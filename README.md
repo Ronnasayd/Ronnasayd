@@ -1,52 +1,56 @@
-### Hi there 👋
+## 👋 Hi, I'm Ronnasayd
 
-## 🚀 Ronnasayd
+Electrical engineer turned developer. I build **MCP servers** and **AI-assisted dev tooling**, mostly in Python.
 
-- ⚡ I'm a electrical engenieer who works with 💜 programming
-- 🔭 I’m currently working with [NuxtJs](https://nuxtjs.org/),[Vuepress](https://vuepress.vuejs.org/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- 💬 Ask me about anything
-<!-- - 🌱 I’m currently learning [nextjs](https://nextjs.org/) and [typescript](https://www.typescriptlang.org/)-->
+## 🔭 What I'm working on
+
+- 🔌 **MCP ecosystem**: proxies, database servers and admin integrations for AI agents
+- 🤖 **AI pair programming**: a toolkit of skills, prompts and workflows for AI-assisted development
+- 🐧 **Linux workflow**: dotfiles and automation scripts
+
+## 📌 Featured projects
+
+| Project                                                                                   | What it does                                                                                                                 |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [mcp-manager](https://github.com/Ronnasayd/mcp-manager)                                   | MCP proxy that wraps several backend servers behind 4 tools (`list_servers`, `search_tools`, `get_tool_schema`, `call_tool`) |
+| [custom-mcps](https://github.com/Ronnasayd/custom-mcps)                                   | FastMCP servers for querying MongoDB, MySQL, PostgreSQL and SQLite, with read-only guarantees                                |
+| [keycloak-mcp-server](https://github.com/Ronnasayd/keycloak-mcp-server)                   | Exposes the Keycloak Admin REST API as MCP tools                                                                             |
+| [AI-pair-programming](https://github.com/Ronnasayd/AI-pair-programming)                   | Toolkit for AI-assisted development                                                                                          |
+| [ulauncher-css-unit-converter](https://github.com/Ronnasayd/ulauncher-css-unit-converter) | Ulauncher extension to convert CSS units                                                                                     |
+| [dotfiles](https://github.com/Ronnasayd/dotfiles)                                         | Linux configuration scripts                                                                                                  |
+
+## 🛠️ Stack
+
+**Languages:** Python · TypeScript · JavaScript · Shell · Go
+**Backend:** Django · Flask · Node.js · FastMCP
+**Frontend:** Vue · Nuxt · React
+**Tools:** Docker · Linux · Git
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ronnasayd&show_icons=true&theme=dracula">
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="24" width="24">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="24" width="24">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="24" width="24">
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="24" width="24">
+  <img alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="24" width="24">
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="24" width="24">
+  <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="24" width="24">
+  <img alt="Nuxt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="24" width="24">
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="24" width="24">
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="24" width="24">
+  <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="24" width="24">
 </p>
+
+## 📊 GitHub stats
+
 <p>
-	<img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20" width="20">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="20" width="20">
+  <img alt="Ronnasayd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ronnasayd&show_icons=true&theme=dracula">
 </p>
 
 ## 📭 Contact
+
 <p>
   <a href="https://www.linkedin.com/in/ronnasayd/">
-	<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
-	</a>
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <!-- [optional] email / portfolio badge -->
 </p>
-
-
-
-<!--
-**Ronnasayd/Ronnasayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
