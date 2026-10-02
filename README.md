@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ronnasayd
 
-Electrical engineer turned developer.
+Electrical engineer / Developer.
 
 ## 🔭 What I'm working on
 
