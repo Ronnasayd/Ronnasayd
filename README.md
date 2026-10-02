@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ronnasayd
 
-Electrical engineer turned developer. I build **MCP servers** and **AI-assisted dev tooling**, mostly in Python.
+Electrical engineer turned developer.
 
 ## 🔭 What I'm working on
 
