@@ -15,7 +15,7 @@ Electrical engineer / Developer.
 | [mcp-manager](https://github.com/Ronnasayd/mcp-manager)                                   | MCP proxy that wraps several backend servers behind 4 tools (`list_servers`, `search_tools`, `get_tool_schema`, `call_tool`) |
 | [custom-mcps](https://github.com/Ronnasayd/custom-mcps)                                   | FastMCP servers for querying MongoDB, MySQL, PostgreSQL and SQLite, with read-only guarantees                                |
 | [keycloak-mcp-server](https://github.com/Ronnasayd/keycloak-mcp-server)                   | Exposes the Keycloak Admin REST API as MCP tools                                                                             |
-| [AI-pair-programming](https://github.com/Ronnasayd/AI-pair-programming)                   | Toolkit for AI-assisted development                                                                                          |
+| [aipp](https://github.com/Ronnasayd/aipp)                   | Toolkit for AI-assisted development                                                                                          |
 | [ulauncher-css-unit-converter](https://github.com/Ronnasayd/ulauncher-css-unit-converter) | Ulauncher extension to convert CSS units                                                                                     |
 | [dotfiles](https://github.com/Ronnasayd/dotfiles)                                         | Linux configuration scripts                                                                                                  |
 
