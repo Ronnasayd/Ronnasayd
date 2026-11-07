@@ -43,7 +43,7 @@ Electrical engineer / Developer.
 ## 📊 GitHub stats
 
 <p>
-  <img alt="Ronnasayd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ronnasayd&show_icons=true&theme=dracula">
+  <img alt="Ronnasayd's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Ronnasayd&theme=radical">
 </p>
 
 ## 📭 Contact
