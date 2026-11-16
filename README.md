@@ -4,20 +4,22 @@ Electrical engineer / Developer.
 
 ## 🔭 What I'm working on
 
+- 🤖 **Aipp**: a toolkit of skills, prompts and workflows for AI-assisted development
 - 🔌 **MCP ecosystem**: proxies, database servers and admin integrations for AI agents
-- 🤖 **AI pair programming**: a toolkit of skills, prompts and workflows for AI-assisted development
 - 🐧 **Linux workflow**: dotfiles and automation scripts
 
 ## 📌 Featured projects
 
-| Project                                                                                   | What it does                                                                                                                 |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [mcp-manager](https://github.com/Ronnasayd/mcp-manager)                                   | MCP proxy that wraps several backend servers behind 4 tools (`list_servers`, `search_tools`, `get_tool_schema`, `call_tool`) |
-| [custom-mcps](https://github.com/Ronnasayd/custom-mcps)                                   | FastMCP servers for querying MongoDB, MySQL, PostgreSQL and SQLite, with read-only guarantees                                |
-| [keycloak-mcp-server](https://github.com/Ronnasayd/keycloak-mcp-server)                   | Exposes the Keycloak Admin REST API as MCP tools                                                                             |
-| [aipp](https://github.com/Ronnasayd/aipp)                   | Toolkit for AI-assisted development                                                                                          |
-| [ulauncher-css-unit-converter](https://github.com/Ronnasayd/ulauncher-css-unit-converter) | Ulauncher extension to convert CSS units                                                                                     |
-| [dotfiles](https://github.com/Ronnasayd/dotfiles)                                         | Linux configuration scripts                                                                                                  |
+| Project                                                                                   | What it does                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [aipp](https://github.com/Ronnasayd/aipp)                                                 | This project is a comprehensive toolkit designed to enhance AI-assisted software development. It serves as a centralized "intelligence hub" for AI agents (Gemini, Copilot, etc.), providing them with specialized roles, reusable skills, and structured workflows |
+| [mcp-manager](https://github.com/Ronnasayd/mcp-manager)                                   | MCP proxy that wraps several backend servers behind 4 tools (`list_servers`, `search_tools`, `get_tool_schema`, `call_tool`)                                                                                                                                        |
+| [custom-mcps](https://github.com/Ronnasayd/custom-mcps)                                   | FastMCP servers for querying MongoDB, MySQL, PostgreSQL and SQLite, with read-only guarantees                                                                                                                                                                       |
+| [keycloak-mcp-server](https://github.com/Ronnasayd/keycloak-mcp-server)                   | MCP server exposing the Keycloak Admin REST API as MCP tools. One tool per operation, name/input schema derived automatically.                                                                                                                                      |
+| [dotfiles](https://github.com/Ronnasayd/dotfiles)                                         | Personal Linux (GNOME) environment: shell, editor, terminal, desktop widgets, helper scripts, git hooks and lint configs                                                                                                                                            |
+| [claude-pr-review](https://github.com/Ronnasayd/claude-pr-review)                         | Central, reusable GitHub Actions workflow that reviews every non-draft pull request with the the-judge skill and posts one consolidated review, authored by github-actions[bot], with inline comments.                                                              |
+| [vrep-mcp](https://github.com/Ronnasayd/vrep-mcp)                                         | MCP server that exposes the whole CoppeliaSim (V-REP) API through 4 tools, instead of one tool per function. An agent finds a function by searching, reads its schema, then calls it on a running simulator over the ZMQ remote API.                                |
+| [ulauncher-css-unit-converter](https://github.com/Ronnasayd/ulauncher-css-unit-converter) | Ulauncher extension to convert CSS units                                                                                                                                                                                                                            |
 
 ## 🛠️ Stack
 
